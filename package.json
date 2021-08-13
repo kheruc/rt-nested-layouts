@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/kheruc/rt-nested-layouts#readme",
   "dependencies": {
-    "next": "^9.0.5",
+    "next": "^11.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
